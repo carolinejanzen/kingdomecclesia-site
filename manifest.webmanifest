@@ -1,0 +1,17 @@
+{
+  "name": "Kingdom of Heaven Ecclesia",
+  "short_name": "Kingdom Ecclesia",
+  "description": "An Association of Churches and Believers dedicated to Proclaiming the Gospel of the Kingdom throughout the Earth, the Seas, and the Heavens.",
+  "theme_color": "#001F3F",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/manus-storage/khe-logo-church-centered-refined_ce8a5c92.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
